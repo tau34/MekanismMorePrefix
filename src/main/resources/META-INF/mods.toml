@@ -4,7 +4,7 @@ license="${mod_license}"
 
 [[mods]]
 modId="mmp"
-version="1.7.1"
+version="0.1"
 displayName="Mekanism: More Prefix"
 authors="Tau34"
 
