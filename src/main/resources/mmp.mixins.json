@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.tau34.mmp.mixin",
+  "refmap": "mmp.refmap.json",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "UnitDisplayUtilsMixin"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
